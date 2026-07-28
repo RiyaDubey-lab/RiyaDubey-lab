@@ -79,7 +79,7 @@ Passionate about building modern web applications, solving real-world problems, 
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/riya-dubey-7b0054425/
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- 💻 GitHub: https://github.com/RiyaDubey-lab
 - 📧 Email: riyadubey2208@gmail.com
 
 ---
