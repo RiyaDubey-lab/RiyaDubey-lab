@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Riya Dubey
 
-<!--
-**RiyaDubey-lab/RiyaDubey-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer | BCA Student
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍🎓 About Me
+
+🎓 BCA Student at Maharaja Chhatrasal Bundelkhand University
+
+🌱 Currently learning
+- Java
+- React
+- JavaScript
+- Data Structures & Algorithms
+
+💼 Looking for Internship Opportunities
+
+---
+
+## 🚀 Tech Stack
+
+- Java
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Working On
+
+- Java Projects
+- React Projects
+- Portfolio Website
+- DSA Practice
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+GitHub:
+Email:
+
+---
+
+⭐ "Code. Learn. Build. Repeat."
